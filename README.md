@@ -3,5 +3,5 @@
 ```
 run frontend
 cd projectname
-npm install
+npm install & npm start
 
